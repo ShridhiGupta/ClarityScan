@@ -33,5 +33,3 @@ HEALTHCARE IMPACT:
 
 HACKATHON ACHIEVEMENT:
 Built as part of Healthcare Hackathon 2024, demonstrating practical AI application in medical imaging and healthcare technology innovation.
-
-Created by: Shridhi Gupta

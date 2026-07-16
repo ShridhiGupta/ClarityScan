@@ -1,4 +1,4 @@
-# ClarityScan - X-Ray Lung Enhancer, an AI-Powered Medical Image Enhancement
+# ClarityScan – X-Ray Lung Enhancer: An AI-Powered Medical Image Enhancement System
 
 A sophisticated healthcare application that uses transformer-based AI to enhance lung X-ray images for better medical diagnosis and analysis.
 

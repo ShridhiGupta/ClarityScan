@@ -270,11 +270,7 @@ See the [LICENSE](LICENSE) file for more details.
 
 ---
 
-**Built for Healthcare Hackathon 2024**  
-**AI-Powered Medical Image Enhancement**  
-**Transforming Medical Diagnosis Through Technology**
-
----
+**Built for Healthcare Hackathon 2024**
 
 **Built by Shridhi Gupta**
 **It's a part of a hackathon**

@@ -264,11 +264,6 @@ For issues and questions:
 
 ## License
 
-This project is licensed under the **MIT License** — feel free to use, modify, and distribute it with proper attribution.
-
-See the [LICENSE](LICENSE) file for more details.
-
----
 
 **Built for Healthcare Hackathon 2024**
 

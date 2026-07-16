@@ -262,8 +262,5 @@ For issues and questions:
 
 ---
 
-**Built for Healthcare Hackathon 2024**
-
-**Built by Shridhi Gupta**
 **It's a part of a hackathon**
 **Got selected in AI Healthcare Hackathon, Ugekistan**

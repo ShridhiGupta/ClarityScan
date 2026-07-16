@@ -262,9 +262,6 @@ For issues and questions:
 
 ---
 
-## License
-
-
 **Built for Healthcare Hackathon 2024**
 
 **Built by Shridhi Gupta**

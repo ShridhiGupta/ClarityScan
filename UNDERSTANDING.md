@@ -1,10 +1,10 @@
 # X-Ray Lung Enhancer - Deep Codebase Analysis
 
-## 🏥 PROJECT OVERVIEW
+## PROJECT OVERVIEW
 
 This is a comprehensive healthcare AI application built for a hackathon that combines medical image enhancement with disease prediction capabilities. The project demonstrates practical AI applications in medical imaging using modern web technologies and deep learning.
 
-## 🏗️ ARCHITECTURE BREAKDOWN
+## ARCHITECTURE BREAKDOWN
 
 ### **Backend Architecture (Python/Flask)**
 

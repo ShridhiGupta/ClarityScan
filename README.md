@@ -248,9 +248,6 @@ Open `http://localhost:3000` in the browser - should load the healthcare interfa
 4. Test thoroughly
 5. Submit a pull request
 
-## License
-
-
 
 ## Support
 

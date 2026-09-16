@@ -250,7 +250,7 @@ Open `http://localhost:3000` in the browser - should load the healthcare interfa
 
 ## License
 
-This project is built for medical research and healthcare applications. Please ensure compliance with local medical device regulations when using in production environments.
+
 
 ## Support
 

@@ -1,4 +1,4 @@
-# ClarityScan –
+# ClarityScan
 A sophisticated healthcare application that uses transformer-based AI to enhance lung X-ray images for better medical diagnosis and analysis.
 
 ## Features
